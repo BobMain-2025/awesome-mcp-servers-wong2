@@ -124,6 +124,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[ELEMENT.FM](https://gitlab.com/elementfm/mcp)** - Create and publish unlimited podcast shows and episodes with [ELEMENT.FM](https://element.fm)
 - **[ElevenLabs](https://github.com/elevenlabs/elevenlabs-mcp)** - The official ElevenLabs MCP server
 - **[Exa](https://github.com/exa-labs/exa-mcp-server)** - Search Engine made for AIs by [Exa](https://exa.ai)
+- **[Fahali](https://github.com/Future-Legends-Inc/fahali-mcp)** - Financial risk for AI agents: portfolio risk, stress tests, crypto risk, contagion and crash precursors as read-only tools. Predictive signals are graded against what the market actually did, misses included, so an agent can weight a call by its engine's verified lead time; analytical engines are labelled observation-only rather than scored as forecasts. Remote MCP over Streamable HTTP + SSE by [Fahali](https://fahaliai.com). Observation, not financial advice.
 - **[FetchSERP](https://github.com/fetchSERP/fetchserp-mcp-server-node)** - All-in-One SEO & Web Intelligence Toolkit API [FetchSERP](https://www.fetchserp.com)
 - **[Fewsats](https://github.com/Fewsats/fewsats-mcp)** - Enable AI Agents to purchase anything in a secure way using [Fewsats](https://fewsats.com)
 - **[FHIR](https://github.com/wso2/fhir-mcp-server/)** - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs, enabling seamless integration with healthcare data through SMART-on-FHIR authentication and comprehensive FHIR operations.
